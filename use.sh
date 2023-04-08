@@ -1,4 +1,4 @@
 #!/bin/bash
 
-# Install Puppeteer locally
-npm test
+# run the code
+npm run npmTest

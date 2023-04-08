@@ -27,7 +27,8 @@
     "check": "rm -f ./src/public/*bundle*.js && ( npm run lint || : ) && npm run tsc-check",
     "pack": "npx webpack ./src/server.js --config ./config/webpack.config.cjs",
     "package": "npx pkg --compress Gzip .",
-    "build": "npm run pack && npm run package"
+    "build": "npm run pack && npm run package",
+    "npmTest": "npm test"
   },
   "repository": {
     "type": "git",
@@ -72,6 +73,7 @@
     "helmet": "latest",
     "multer": "latest",
     "node-fetch": "latest",
+    "puppeteer": "^19.8.5"
     "ws": "^7.4.6"
   },
   "devDependencies": {

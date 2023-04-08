@@ -1,5 +1,4 @@
 #!/bin/bash
 
-# Install Puppeteer locally
-npm i puppeteer
-npm i
+# Install the depend locally
+npm install
