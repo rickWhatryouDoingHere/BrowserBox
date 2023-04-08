@@ -73,7 +73,7 @@
     "helmet": "latest",
     "multer": "latest",
     "node-fetch": "latest",
-    "puppeteer": "lates"
+    "puppeteer": "lates",
     "ws": "lates"
   },
   "devDependencies": {
