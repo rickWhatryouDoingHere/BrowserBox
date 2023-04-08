@@ -73,8 +73,8 @@
     "helmet": "latest",
     "multer": "latest",
     "node-fetch": "latest",
-    "puppeteer": "lates",
-    "ws": "lates"
+    "puppeteer": "latest",
+    "ws": "latest"
   },
   "devDependencies": {
     "@babel/cli": "latest",
